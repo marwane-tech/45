@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1573493680 source:e:\500k_articles\fichier\45\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573490288 source:e:\500k_articles\fichier\45\fonction.c
+	<stdio.h>
+
+1573493982 source:e:\500k_articles\fichier\45\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1573492579 source:e:\500k_articles\fichier\45\affiche.c
+	<stdio.h>
+	<stdlib.h>
+
+1573492579 source:e:\500k_articles\fichier\45\moyenne.c
+	<stdio.h>
+	<stdlib.h>
+
+1573492952 source:e:\500k_articles\fichier\45\saisir.c
+	<stdio.h>
+	<stdlib.h>
+
+1573492579 source:e:\500k_articles\fichier\45\somme.c
+	<stdio.h>
+	<stdlib.h>
+
+1573492579 source:e:\500k_articles\fichier\45\sup.c
+	<stdio.h>
+	<stdlib.h>
+
+1573680450 source:e:\500k_articles\fichier\45\plus.c
+	<stdio.h>
+	<stdlib.h>
+
